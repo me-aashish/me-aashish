@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **Machine Learning,PHP, C/C++**
+- 💬 Ask me about **Machine Learning, NodeJS, Databases, PHP, C/C++**
 
 - 📫 How to reach me **20BCS3872@cuchd.in**
 
