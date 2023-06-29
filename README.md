@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-aashish&label=Profile%20views&color=0e75b6&style=flat" alt="me-aashish" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Competitive Programming**
+- 🔭 I’m currently working on **Backend Development and Competitive Programming**
 
-- 🌱 I’m currently learning **Machine Learning, python**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Backend Dev Projects**
 
 - 💬 Ask me about **Machine Learning, NodeJS, Databases, PHP, C/C++**
 
