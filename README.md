@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-aashish&label=Profile%20views&color=0e75b6&style=flat" alt="me-aashish" /> </p>
 
-- 🔭 I’m currently working on **Backend Development and Competitive Programming**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS and DSA**
 
 - 👯 I’m looking to collaborate on **Backend Dev Projects**
 
