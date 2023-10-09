@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-aashish&label=Profile%20views&color=0e75b6&style=flat" alt="me-aashish" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Frontend & Backend Development**
 
 - 🌱 I’m currently learning **ReactJS and DSA**
 
