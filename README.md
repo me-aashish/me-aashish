@@ -33,5 +33,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-aashish&show_icons=true&locale=en" alt="me-aashish" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-aashish&show_icons=true&locale=en&layout=compact" alt="me-aashish" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-aashish&" alt="me-aashish" /></p>
