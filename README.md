@@ -13,7 +13,7 @@
 
 - 👯 Looking to collaborate on **Web Dev Projects**
 
-- 💬 Ask me about **Machine Learning, NodeJS, ReactJS, Databases, PHP, C/C++**
+- 💬 Ask me about **Machine Learning, NodeJS, ReactJS, Databases, PHP, C/C++, System Design, HLD**
 
 - 📫 How to reach me **jha.aashish11@gmail.com**
 
