@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-aashish&label=Profile%20views&color=0e75b6&style=flat" alt="me-aashish" /> </p>
 
-- 🔭 Currently working on **Docker & Kubernetes**
+- 🔭 Currently working on **Web Backend**
 
-- 🌱 I’m currently learning **ReactJS and DSA**
+- 🌱 I’m currently learning **Docker, Kubernetes & DSA**
 
 - 👯 Looking to collaborate on **Web Dev Projects**
 
